@@ -1,7 +1,3 @@
-Sure, here is a concise README focused on explaining the model and its purpose:
-
----
-
 # Text Correction Model
 
 This project involves a text correction model built using the Hugging Face Transformers library. The model is designed to correct grammar and spelling errors in text input.
@@ -42,3 +38,7 @@ The model's performance was evaluated using the GLEU (Google-BLEU) score, which 
 The model and tokenizer were saved after fine-tuning and can be loaded for inference in future use.
 
 ---
+# Installation
+Model: **Grammer_correction**: https://huggingface.co/HamadML/grammer_correction
+
+Dataset: **jfleg**: https://huggingface.co/datasets/jhu-clsp/jfleg?ref=vennify.ai
