@@ -1,6 +1,6 @@
 # AI Projects Repository
 
-Welcome to the AI Projects Repository! This repository contains a collection of AI projects that showcase various aspects of artificial intelligence, machine learning, and deep learning. Each project includes detailed documentation, code, and examples to help you understand and implement the concepts.
+Welcome to the AI Projects Repository! This repository contains a collection of AI projects that I have personally developed to showcase various aspects of artificial intelligence, machine learning, and deep learning. Each project includes detailed documentation, code, and examples to help you understand and implement the concepts.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to the AI Projects Repository! This repository contains a collection of 
 
 ## Introduction
 
-This repository is a compilation of AI projects developed to explore and demonstrate different techniques and algorithms in AI and machine learning. Whether you're a beginner or an experienced practitioner, you'll find projects that cater to various skill levels and interests.
+This repository is a compilation of AI projects that I have worked on myself. These projects explore and demonstrate different techniques and algorithms in AI and machine learning. Whether you're a beginner or an experienced practitioner, you'll find projects that cater to various skill levels and interests.
 
 ## Project List
 
