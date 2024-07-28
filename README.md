@@ -25,7 +25,7 @@ Here is a list of projects included in this repository:
 4. **House Prices**
 5. **Text Correction**
 6. **Bike Sharing Demand**
-
+7. **Facial Emotion Recognition**
 
 ## Installation
 
